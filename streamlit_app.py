@@ -1,4 +1,4 @@
-import streamlithttps://github.com/temberson/first_streamlit_app/blob/main/streamlit_app.py
+import streamlit
 
 streamlit.title("My Mom's New Healthy Diner")
 
